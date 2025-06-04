@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚀 Front-End Developer | 🎨 UI Enthusiast | 💡 Tech Explorer
+🚀 Front-end Developer | 🎨 UI Enthusiast | 💡 Tech Explorer
 <br><br>
-🌟 Committed to **innovation and seamless user experiences**, transforming ideas into interactive and engaging web applications.
+🌟 Committed to **innovation and seamless user experiences**, transforming **ideas into interactive** and engaging web applications.
 
 
 ## 🌐 Socials:
